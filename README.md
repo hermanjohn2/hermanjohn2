@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hermanjohn2.github.io/#/](https://hermanjohn2.github.io/#/)
 
-- 💬 Ask me about **React, MongoDB, Node & Express**
+- 💬 Ask me about **React, MongoDB, Node, Express & Bootstrap**
 
 - 📫 How to reach me **hermanjohn2@gmail.com**
 
