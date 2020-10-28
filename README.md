@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hermanjohn2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kg3956C2TYkuGiAlfAdkpeHeQWSLHEYR/view?usp=sharing](https://drive.google.com/file/d/1kg3956C2TYkuGiAlfAdkpeHeQWSLHEYR/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jrRe1tmLWYH8CluRbI2b-gtrDq6d0zXy/view?usp=sharing](https://drive.google.com/file/d/1jrRe1tmLWYH8CluRbI2b-gtrDq6d0zXy/view?usp=sharing)
 
 - 🎹 Fun fact **I play piano!**
 
