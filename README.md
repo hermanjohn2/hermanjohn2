@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 , I'm John Herman</h1>
 
-- 🔭 I’m currently working on [Playlistr](https://playlistr-io.herokuapp.com/)
+- 🔭 I’m currently working on [Poncey](https://github.com/hermanjohn2/poncey)
 
 - 🌱 I’m currently learning **React Native, AWS, & SASS**
 
@@ -11,6 +11,8 @@
 - 📫 How to reach me **hermanjohn2@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kg3956C2TYkuGiAlfAdkpeHeQWSLHEYR/view?usp=sharing](https://drive.google.com/file/d/1kg3956C2TYkuGiAlfAdkpeHeQWSLHEYR/view?usp=sharing)
+
+- 👀 Check out my deployed project [Playlistr](https://playlistr-io.herokuapp.com/)
 
 - 🎹 Fun fact **I play piano!**
 
