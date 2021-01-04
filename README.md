@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hermanjohn2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jrRe1tmLWYH8CluRbI2b-gtrDq6d0zXy/view?usp=sharing](https://drive.google.com/file/d/1jrRe1tmLWYH8CluRbI2b-gtrDq6d0zXy/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oI-xv72wX6uQUfB7QYbBO0hVpb_ipGeB/view?usp=sharing](https://drive.google.com/file/d/1oI-xv72wX6uQUfB7QYbBO0hVpb_ipGeB/view?usp=sharing)
 
 - 👀 Check out my deployed project [Playlistr](https://playlistr-io.herokuapp.com/)
 
