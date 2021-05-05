@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 , I'm John Herman</h1>
 
-- 🔭 I’m currently working on [Blue Notes](https://github.com/hermanjohn2/blue-notes)
+- 🔭 I’m currently working on [Blue Notes](https://github.com/hermanjohn2/blue-notes-web-app)
 
 - 🌱 I’m currently learning **React Native, AWS, & SASS**
 
