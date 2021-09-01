@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 , I'm John Herman</h1>
 
-- 🔭 I’m currently working on [Blue Notes](https://github.com/hermanjohn2/blue-notes-web-app)
+- 🔭 I’m currently working on [Playlistr](https://github.com/connietran-dev/playlistr)
 
-- 🌱 I’m currently learning **React Native, AWS, & SASS**
+- 🌱 I’m currently learning **TypeScript && Python**
 
 - 👨‍💻 All of my projects are available at [https://hermanjohn2.github.io/#/](https://hermanjohn2.github.io/#/)
 
@@ -10,19 +10,17 @@
 
 - 📫 How to reach me **hermanjohn2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jzvEUco3R6158j-0QutPxDK99PSsSdig/view?usp=sharing](https://drive.google.com/file/d/1jzvEUco3R6158j-0QutPxDK99PSsSdig/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LzhRaUsr_yDFN1F3cEOVpMXZqQ-v9EK7/view?usp=sharing](https://drive.google.com/file/d/1LzhRaUsr_yDFN1F3cEOVpMXZqQ-v9EK7/view?usp=sharing)
 
-- 👀 Check out my deployed project [Playlistr](https://playlistr-io.herokuapp.com/)
-
-- 🎹 Fun fact **I play piano!**
+- 👀  Fun fact **I am red-green colorblind**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://codepen.io/hermanjohn2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hermanjohn2" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/hermanjohn2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hermanjohn2" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/john-joseph-herman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="john-joseph-herman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12405890/herman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hermanjohn2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hermanjohn2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hermanjohn2" height="30" width="40" /></a>
-</p>
+<!-- <a href="https://stackoverflow.com/users/12405890/herman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hermanjohn2" height="30" width="40" /></a> -->
+<!-- <a href="https://www.hackerrank.com/hermanjohn2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hermanjohn2" height="30" width="40" /></a>
+</p> -->
 
 <!-- Need to edit link urls for images to display -->
 
@@ -31,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermanjohn2&layout=compact" alt="hermanjohn2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hermanjohn2&show_icons=true" alt="hermanjohn2" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hermanjohn2&show_icons=true" alt="hermanjohn2" /></p> -->
