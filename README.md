@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **hermanjohn2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LzhRaUsr_yDFN1F3cEOVpMXZqQ-v9EK7/view?usp=sharing](https://drive.google.com/file/d/1LzhRaUsr_yDFN1F3cEOVpMXZqQ-v9EK7/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jdrlpi9QW-vVnv7ZRu6Qx6-dJwYHx5EE/view?usp=sharing](https://drive.google.com/file/d/1jdrlpi9QW-vVnv7ZRu6Qx6-dJwYHx5EE/view?usp=sharing)
 
-- 👀  Fun fact **I am red-green colorblind**
+- 👀 Fun fact **I am red-green colorblind**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
