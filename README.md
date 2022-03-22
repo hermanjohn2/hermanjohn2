@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hermanjohn2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jdrlpi9QW-vVnv7ZRu6Qx6-dJwYHx5EE/view?usp=sharing](https://drive.google.com/file/d/1jdrlpi9QW-vVnv7ZRu6Qx6-dJwYHx5EE/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1d13fuPbc3NzU2z8yX6iHqALfKC4wQZLe/view?usp=sharing)
 
 - 👀 Fun fact **I am red-green colorblind**
 
