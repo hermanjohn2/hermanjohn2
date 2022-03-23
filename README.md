@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **TypeScript && Python**
 
-- 👨‍💻 All of my projects are available at [https://hermanjohn2.github.io/#/](https://hermanjohn2.github.io/#/)
+- 👨‍💻 All of my projects are available at [https://john-herman.herokuapp.com/](https://john-herman.herokuapp.com/)
 
 - 💬 Ask me about **React, MongoDB, Node & Express**
 
