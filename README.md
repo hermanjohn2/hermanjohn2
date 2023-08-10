@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **johnherman.dev@gmail.com**
 
-- 📄 Hiring? See all of my experiences: [Resume]([https://drive.google.com/file/d/1brZMdYGaE0coljwTBNY783DNd_TT4vSm/view?usp=sharing](https://drive.google.com/file/d/1vz8lIGMgEsaIcgFR1IzOUlllN8Nx2UKu/view?usp=sharing))
+- 📄 Hiring? See all of my experiences: [Resume](https://drive.google.com/file/d/1vz8lIGMgEsaIcgFR1IzOUlllN8Nx2UKu/view?usp=sharing)
 
 - 👀 Fun fact: **I am red-green colorblind**
 <br />
